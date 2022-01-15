@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    echo "this is about page";
+    echo "This is about page";
 });
